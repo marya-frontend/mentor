@@ -1,2 +1,0 @@
-# mentor
-my new project
